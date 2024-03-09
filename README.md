@@ -20,6 +20,7 @@ ArewaDS website: https://arewadatascience.github.io
     - [30 Days of Python Challenge](#30-days-of-python-challenge)
   - [Stage 2: Data Science](#stage-2-data-science)
   - [Stage 3: Machine Learning](#stage-3-machine-learning)
+  - [Stage 3: Machine Learning](#stage-3-machine-learning-1)
   - [Career Services, Soft Skills and Mentorship](#career-services-soft-skills-and-mentorship)
 
 
@@ -159,12 +160,12 @@ Recommended Reading: [Atomic Habit](https://jamesclear.com/atomic-habits-summary
 |  04/02/2024                    | Pandas.                                                            | [Pandas Notebook](#) \| [Pandas exerices](https://github.com/guipsamora/pandas_exercises)      | [Recording](https://youtu.be/UbUw6j0dICI)     |   [Dr. Shamsuddeen](https://www.linkedin.com/in/shmuhammad/)
 |    10/02/2024              |  Working With Data: Techniques for cleaning and transforming data to address challenges like missing or inaccurate data. | [Data Preparation Techniques](2-Working-With-Data/08-data-preparation/README.md)        | [Recording](https://youtu.be/oim42n-84-4)     | [Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/)
 |       11/02/2024        | Visualizing Quantities : Learn to use Matplotlib to visualize data, such as bird populations.                                                    | [Visualizing with Matplotlib](3-Data-Visualization/09-visualization-quantities/README.md)        | [Recording](https://youtu.be/yt0KFV8JPoI)     |[Dr Ibrahim](https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/)
-|  17/02/2024   | Visualizing Distributions of Data: Visualize observations and trends within intervals.                                                                     | [Data Distributions Visualization](3-Data-Visualization/10-visualization-distributions/README.md)   |     |TBD
-|     17/02/2024        |  Visualizing Proportions: Visualize discrete and grouped percentages.                                                                             | [Proportions Visualization](3-Data-Visualization/11-visualization-proportions/README.md)          |     |TBD
-|  18/02/2024       |  Visualizing Relationships : Visualize connections and correlations between datasets and variables.                                                  | [Relationships Visualization](3-Data-Visualization/12-visualization-relationships/README.md)        |     |TBD
-|   18/02/2024      |  Meaningful Visualizations : Create valuable visualizations for effective problem-solving and insights.                                              | [Creating Meaningful Visualizations](3-Data-Visualization/13-meaningful-visualizations/README.md) |      |TBD
-|     18/02/2024               |  Communication : Present insights from data in an understandable way for decision-makers.                                                | [Data Science Communication](4-Data-Science-Lifecycle/16-communication/README.md)         |     |TBD
-|                |  Learn how to us Quarto to create website                                               | [Quaro](https://quarto.org)         |     |TBD
+|  17/02/2024   | Visualizing Distributions of Data: Visualize observations and trends within intervals.                                                                     | [Data Distributions Visualization](3-Data-Visualization/10-visualization-distributions/README.md)   |   [Recording](https://youtu.be/_wRt_MNFxmI?si=nUWEojzqQufxkUOn&t=18)  |[Dr. Idris](https://www.linkedin.com/in/abumafrim/)
+|     17/02/2024        |  Visualizing Proportions: Visualize discrete and grouped percentages.                                                                             | [Proportions Visualization](3-Data-Visualization/11-visualization-proportions/README.md)          |  [Recording](https://youtu.be/_wRt_MNFxmI?si=V7dfUdZ9myLx7Yct&t=2939)   |[Dr. Idris](https://www.linkedin.com/in/abumafrim/)
+|  18/02/2024       |  Visualizing Relationships : Visualize connections and correlations between datasets and variables.                                                  | [Relationships Visualization](3-Data-Visualization/12-visualization-relationships/README.md)        |  [Recording](https://youtu.be/BOH2Wjj01_Y?si=ZHLc6BnHfifs-S8K)   |[Dr. Idris](https://www.linkedin.com/in/abumafrim/)
+|   18/02/2024      |  Meaningful Visualizations : Create valuable visualizations for effective problem-solving and insights.                                              | [Creating Meaningful Visualizations](3-Data-Visualization/13-meaningful-visualizations/README.md) |  [Recording](https://youtu.be/BOH2Wjj01_Y?si=xMOGdBtmLizuoXWM&t=2062)    |[Dr. Idris](https://www.linkedin.com/in/abumafrim/)
+|     18/02/2024               |  Communication : Present insights from data in an understandable way for decision-makers.                                                | [Data Science Communication](4-Data-Science-Lifecycle/16-communication/README.md)         |  [Recording](https://youtu.be/BOH2Wjj01_Y?si=ciD6l3iQ2xRVl5AG&t=2814)   |[Dr. Idris](https://www.linkedin.com/in/abumafrim/)
+| 3/03/2023               |  Learn how to us Quarto to create website                | [Quaro](https://quarto.org)         |    
 
 
 
@@ -175,24 +176,42 @@ Recommended Reading: [Atomic Habit](https://jamesclear.com/atomic-habits-summary
 In the final part of the fellowship, we'll focus on Machine Learning. You'll learn about different algorithms and how to implement them using popular libraries like Scikit-learn.
 
 
-| Topic                                         | Learning Objectives                                                                 | Lesson Resources | Mentor |
-| --------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------- | ------ |
-| Introduction to Machine Learning              | Learn the basic concepts behind machine learning.                                   | [Lesson](#)      | TBD    |
-| The History of Machine Learning               | Learn the history underlying this field.                                            | [Lesson](#)      | TBD    |
-| Techniques for Machine Learning               | Discover the techniques ML researchers use to build ML models.                      | [Lesson](#)      | TBD    |
-| Introduction to Regression                    | Get started with regression models using Python and Scikit-learn.                   | [Lesson](#)      | TBD    |
-| North American Pumpkin Prices 🎃               | Visualize and clean data; build linear, polynomial, and logistic regression models. | [Lesson](#)      | TBD    |
-| Introduction to Classification                | Introduction to data cleaning, preparation, and visualization for classification.   | [Lesson](#)      | TBD    |
-| Delicious Asian and Indian Cuisines 🍜         | Learn about classifiers; build a recommender web app using your model.              | [Lesson](#)      | TBD    |
-| Introduction to Clustering                    | Learn about clustering and data visualization.                                      | [Lesson](#)      | TBD    |
-| Exploring Nigerian Musical Tastes 🎧           | Explore the K-Means clustering method with music data.                              | [Lesson](#)      | TBD    |
-| Introduction to Natural Language Processing ☕️ | Learn the basics of NLP by building a simple bot.                                   | [Lesson](#)      | TBD    |
-| Common NLP Tasks ☕️                            | Understand common tasks in NLP dealing with language structures.                    | [Lesson](#)      | TBD    |
-| Translation and Sentiment Analysis ♥️          | Perform translation and sentiment analysis with literary texts.                     | [Lesson](#)      | TBD    |
-| Romantic Hotels of Europe ♥️                   | Conduct sentiment analysis with European hotel reviews.                             | [Lesson](#)      | TBD    |
-| Introduction to Time Series Forecasting       | Learn the basics of time series forecasting.                                        | [Lesson](#)      | TBD    |
-| Introduction to Reinforcement Learning        | Get introduced to reinforcement learning with Q-Learning.                           | [Lesson](#)      | TBD    |
-| Introduction to Kaggle                        | Learn how to participate in Kaggle competition                                      | [Lesson](#)      | TBD    |
+## Stage 3: Machine Learning
+
+**Duration: 8 weeks**
+
+Recommended Book: 
+
+- [Machine Learning with PyTorch and Scikit-Learn Book](#) and [Youtube Series on this book chapters](https://www.youtube.com/playlist?list=PLr3-oFRsHRaZwmVUPMvnDUZV-j2zaK5zU).
+
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3e: Concepts, Tools, and Techniques to Build Intelligent Systems
+
+
+In the final part of the fellowship, we'll focus on Machine Learning. You'll learn about different algorithms and how to implement them using popular libraries like Scikit-learn.
+
+
+
+| Date       | Topic/Learning Objectives                                                                                              | Lesson Group                   | Lesson Resources                                                                 | Recording | Mentor |
+|------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------|-----------|--------|
+| 09/03/2024 | Introduction to Machine Learning: Learn the basic concepts behind machine learning.                                     | Introduction                     | [Lesson](https://github.com/arewadataScience/ArewaDS-Machine-Learning/tree/main/5-Introduction-to-ML/1-intro-to-ML)                | TBD       | Shamsuddeen   |
+| 09/02/2024 | The History of Machine Learning: Learn the history underlying this field.                                              | Introduction                     | [Lesson](https://github.com/arewadataScience/ArewaDS-Machine-Learning/tree/main/5-Introduction-to-ML/2-history-of-ML)              | TBD       | Shamsuddeen    |
+| 10/03/2024 | Techniques for Machine Learning: Discover the techniques ML researchers use to build ML models.                        | Introduction                     | [Lesson](https://github.com/arewadataScience/ArewaDS-Machine-Learning/tree/main/5-Introduction-to-ML/4-techniques-of-ML)           | TBD       | Shamsuddeen    |
+|            | Introduction to Regression: Get started with regression models using Python and Scikit-learn.                     | Regression                      | [Lesson](Machine-Learning/2-Regression/README.md)                                 | TBD       | TBD    |
+|            | North American Pumpkin Prices 🎃: Visualize and clean data; build linear, polynomial, and logistic regression models.  | Regression                      | [Lesson](Machine-Learning/2-Regression/README.md)                                 | TBD       | TBD    |
+|            | Introduction to Classification: Introduction to data cleaning, preparation, and visualization for classification.    | Classification                  | [Lesson](Machine-Learning/4-Classification/README.md)                             | TBD       | TBD    |
+|            | Delicious Asian and Indian Cuisines 🍜: Learn about classifiers; build a recommender web app using your model.               | Classification                  | [Lesson](Machine-Learning/4-Classification/4-Applied/README.md)                   | TBD       | TBD    |
+|            | Introduction to Clustering: Learn about clustering and data visualization.                                       | Clustering                      | [Lesson](Machine-Learning/5-Clustering/1-Visualize/README.md)                     | TBD       | TBD    |
+|            | Exploring Nigerian Musical Tastes 🎧: Explore the K-Means clustering method with music data.                               | Clustering                      | [Lesson](Machine-Learning/5-Clustering/2-K-Means/README.md)                       | TBD       | TBD    |
+|            | Introduction to Natural Language Processing ☕️: Learn the basics of NLP by building a simple bot.                                    | Natural Language Processing     | [Lesson](Machine-Learning/6-NLP/1-Introduction-to-NLP/README.md)                  | TBD       | TBD    |
+|            | Common NLP Tasks ☕️: Understand common tasks in NLP dealing with language structures.                     | Natural Language Processing     | [Lesson](Machine-Learning/6-NLP/README.md)                                        | TBD       | TBD    |
+|            | Translation and Sentiment Analysis ♥️: Perform translation and sentiment analysis with literary texts.                      | Natural Language Processing     | [Lesson](Machine-Learning/6-NLP/3-Translation-Sentiment/README.md)                | TBD       | TBD    |
+|            | Romantic Hotels of Europe ♥️: Conduct sentiment analysis with European hotel reviews.                              | Natural Language Processing     | [Lesson](Machine-Learning/6-NLP/4-Hotel-Reviews-1/README.md)                      | TBD       | TBD    |
+|            | Introduction to Time Series Forecasting: Learn the basics of time series forecasting.                                         | Time Series                     | [Lesson](Machine-Learning/7-TimeSeries/README.md)                                 | TBD       | TBD    |
+|            | Introduction to Reinforcement Learning: Get introduced to reinforcement learning with Q-Learning.                            | Reinforcement Learning          | [Lesson](Machine-Learning/8-Reinforcement/README.md)                              | TBD       | TBD    |
+|            | Introduction to Kaggle: Learn how to participate in Kaggle competition                                       | Kaggle                          | [Lesson](https://machinelearningmastery.com/get-started-with-kaggle/)                                                                       | TBD       | TBD    |
+|            | MLFlow**: Learn how to get started with MLflow                                                 | MLFlow                           | [Lesson](#)                                                                       | TBD       | TBD    |
+
+
 
 
 
